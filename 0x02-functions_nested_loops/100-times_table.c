@@ -3,7 +3,7 @@
 /**
  * print_times_table - Prints the n times table
  *
- * number times table (0 < n <= 15)
+ * @n: number times table (0 < n <= 15)
  *
  *
  * Return: no return
